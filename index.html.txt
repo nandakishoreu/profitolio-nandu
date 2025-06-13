@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h2>My Portfolio</h2>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>Hi, I am Nandakishore U</h1>
+    <p>A smart‑working engineering graduate experienced in cybersecurity.</p>
+  </section>
+
+  <section id="about" class="section">
+    <div class="card">
+      <h2>About Me</h2>
+      <p>I am an engineering aspirant keen on business administration and an expert in fields like cybersecurity, web development, and data science. Currently, I am pursuing advanced research leading toward a PhD, melding technical depth with strategic thinking. My journey has honed strong project leadership, analytical problem‑solving, and a
